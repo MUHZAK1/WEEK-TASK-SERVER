@@ -1,0 +1,15 @@
+*{
+    padding: 0; 
+    margin: 0; 
+    box-sizing: border-box;
+    
+   }
+   
+   
+   
+   
+   #links , a{
+  margin-left: 75px;
+  text-decoration: none;
+  color:white;
+     }
